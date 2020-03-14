@@ -24,7 +24,7 @@ git clone <project url>
 ```
 Where **project url** is identificator for the current project which might be find here:
 
-![Project URL](file:///Users/Yana/NeuroStartUp/project%20url.png)
+![Project URL](https://raw.githubusercontent.com/yana-prokudina/NeuroStartUp/master/project%20url.png)
 
 ### License terms
 
